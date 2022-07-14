@@ -1,0 +1,2 @@
+# _gymTemplateHealthandFitness
+Responsive design
